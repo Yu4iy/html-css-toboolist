@@ -132,3 +132,13 @@ section {
 	
 }
 
+/* sec.Main (utilizando list) */
+ul {
+	list-style-type: none;
+}
+li{
+	margin: 0 0 30px 5px;
+}
+.border {
+	border-top: 2px dotted red;
+}
