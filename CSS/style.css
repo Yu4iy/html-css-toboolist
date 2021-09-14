@@ -8,6 +8,7 @@
 body{
 	background-color: #f6f8f9;
 }
+
 /* Header */
 .header-inner {
 	width: 100%;
@@ -28,3 +29,41 @@ body{
 	color: black;
 }
 
+/* container */
+.container{
+	width: 768px;
+	height: 600px;
+	background-color: #fff;
+	margin: 40px auto;
+}
+
+/* buttons */
+.button-inner {
+	height: 50px;
+	border-bottom: 2px solid #f6f8f9;
+	padding: 14px 0 8px 50px;
+}
+.button-task {
+	background-color: #47adf1;
+	color: #fff;
+	display: inline-block;
+	width: 69px;
+	border: 1px solid #47adf1 ;
+	text-decoration: none;
+	border-radius: 4px;
+	text-align: center;
+	line-height: 26px;
+	font-size: 12px;
+}
+.button-section {
+	background-color: #fff;
+	color: #cad0d4;
+	display: inline-block;
+	width: 85px;
+	text-decoration: none;
+	border-radius: 4px;
+	border: 1px solid #cad0d4;
+	text-align: center;
+	line-height: 26px;
+	font-size: 12px;
+}
